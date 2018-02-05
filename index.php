@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
             echo  "primera linea del proyecto";
+            echo "segunda linea del proyecto";
         ?>
     </body>
 </html>
